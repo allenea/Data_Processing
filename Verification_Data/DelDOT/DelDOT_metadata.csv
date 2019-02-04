@@ -1,0 +1,12 @@
+Station Name,Call Sign,County,ST,Latitude (DD),Longitude (DD),Elev (m),Sensor_Height (m),,,
+Odessa_CD_Canal_Bridge,DEL00,New Castle,DE,39.544722,-75.651972,35.05,10.00,,,
+Milton_SR1_and_RT16,DEL02,Sussex,DE,38.804222,-75.272444,4.27,10.00,,,
+Smyrna_DE1_at_EOC,DEL03,Kent,DE,39.319694,-75.606111,12.19,10.00,,,
+Harrington_US13_and_DE14,DEL04,Kent,DE,38.924139,-75.567222,15.85,10.00,,,
+Ellendale_RT113_and_RT16,DEL07,Sussex,DE,38.806361,-75.439333,15.24,10.00,,,
+Smyrna_DE1_and_DE12,DEL08,Kent,DE,39.291528,-75.594389,13.11,10.00,,,DO NOT USE - LARGE TREE
+Middletown_US13_at_PinetreeRd,DEL09,New Castle,DE,39.407028,-75.662167,19.20,10.00,,,
+Odessa_US1_at_AppoquiniminkRiver,DEL13,New Castle,DE,39.441389,-75.663611,2.01,10.00,,,
+SR1_at_TrapShootersRd,DEL17,Kent,DE,39.085000,-75.457500,4.57,10.00,,,
+Indian_River_Inlet_Bridge_North,DEL18,Sussex,DE,38.608889,-75.063333,11.00,10.00,,,
+SR1_at_SR30,DEL19,Sussex,DE,38.891389,-75.388333,8.99,10.00,,,

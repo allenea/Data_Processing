@@ -1,0 +1,16 @@
+Station_Name,CallSign,ST,Latitude,Longitude,Elevation,Sensor_Height,Type,Active_Date
+Greenwich,MGNW,NJ,39.441883,-75.382315,13,3,Mesonet,3/1/12
+Bivalve,SBLV,NJ,39.23778,-75.0239,1,6,SafetyNet,5/13/03
+Dennis,MDNT,NJ,39.203932,-74.892301,3,3,Mesonet,1/29/08
+Woodbine,MWBN,NJ,39.218389,-74.794427,10,10,Mesonet,12/5/03
+CapeMayCourtHouse,MCPM,NJ,39.124648,-74.787329,6,3,Mesonet,1/29/08
+WestCapeMay,MWCM,NJ,38.942249,-74.944121,3,3,Mesonet,1/30/08
+EggHarbor,MEGG,NJ,39.419491,-74.537872,7,3,Mesonet,1/29/08
+Hammonton,MHM2,NJ,39.63533,-74.75836,20,3,Mesonet,1/1/11
+PineyHollow,MPYH,NJ,39.580605,-74.934366,34,3,Mesonet,1/29/08
+UpperDeerfield,MUDF,NJ,39.524351,-75.200927,34,10,Mesonet,11/14/03
+SouthHarrison,MSHR,NJ,39.712359,-75.280754,41,3,Mesonet,1/29/08
+Sewell,MBMP,NJ,39.748531,-75.113873,27,3,Mesonet,1/29/08
+Sicklerville,MSVL,NJ,39.763852,-74.97857,45,10,Mesonet,4/28/06
+OswegoLake,MOLK,NJ,39.715408,-74.514219,16,10,Mesonet,5/12/04
+ACMarina,SACM,NJ,39.378501,-74.424158,0,10,SafteyNet,3/19/04
